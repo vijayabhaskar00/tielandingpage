@@ -1,0 +1,53 @@
+.stu_input
+{
+	border-radius: 2px;
+	outline: none;
+	-webkit-box-shadow: none !important;
+	-moz-box-shadow: none !important;
+	box-shadow: none !important;
+}
+
+.stu_btn_success
+{
+	background: #fff !important;
+	border:1px solid #48a360 !important;
+	color: #48a360 !important;
+}
+.stu_btn_fail
+{
+	background: #fff !important;
+	border:1px solid #cb202d !important;
+	color: #cb202d !important;
+}
+
+.stu_btn
+{
+	background: #fff !important;
+	border:1px solid #AAA !important;
+	color: #AAA !important;
+}
+
+.stu_btn_success:hover,stu_btn_success:focus
+{
+	background: #fff !important;
+	border:1px solid #4cb564 !important;
+	color: #4cb564 !important;
+}
+.stu_btn_fail:hover,stu_btn_success:focus
+{
+	background: #fff !important;
+	border:1px solid #cb202d !important;
+	color: #cb202d !important;
+}
+
+.stu_btn:hover,stu_btn_success:focus
+{
+	background: #fff !important;
+	border:1px solid #777 !important;
+	color: #777 !important;
+}
+
+.stu_avatar
+{
+	border-radius: 50%;
+}

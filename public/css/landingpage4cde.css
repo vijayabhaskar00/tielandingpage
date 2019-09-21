@@ -1,0 +1,167 @@
+
+ /*My custom style for New Landing page */
+ 
+ .carousel-caption div
+ {
+	 float:right;
+	 text-align:left;
+	 
+ }
+.carousel-caption div p
+{
+	font-size:20px;
+	
+}
+.carousel-caption div p a
+{
+ color:white;
+	
+}
+.carousel-caption div h6 a
+{
+ color:white;
+	
+}
+
+ 
+	.navbar-defaultt
+	{
+		
+	  background-color:none;;
+		
+	}
+	a:focus, a:hover
+	{
+		text-decoration:none;
+	}
+	.form-control:focus 
+	{
+      border-color:white;
+	}
+	.form-control
+	{
+		border: none;
+		border-radius: 0px;
+		}
+	.form-inline .btn
+	{
+	  border-radius:0px;
+	  
+	}
+	
+	.dropdown-menu
+	{
+		border-radius:0px;		
+	}
+	
+	
+	input:focus, textarea:focus, keygen:focus, select:focus
+             {
+           outline:black;
+	}
+	
+	.modal-content .btn
+		{
+          border-radius:8px;
+
+		}
+	
+	 .modal-body
+              {
+         font-family:sans-serif;
+		 
+		 
+        }
+	  
+	   .modal-body  a
+		{
+          font-family:sans-serif;
+          color:inherit;
+		}
+
+	  .modal-body  form a
+		{
+         color:white;
+        }
+	
+	  .modal-body form p a
+			{
+	         color:#9d9d9d;
+			}
+	     .modal-body form p h4
+		{
+          color:inherit;
+        }
+	
+	 .navbar-nav>li>a:hover,a:focus,a:visited
+	 {
+		 background:none;
+	}
+
+	.close 
+	{
+  
+  font-size: 40px;
+  
+}
+
+ .popup  div .btn {
+  color: #fff;
+  background-color:none;
+  border-color:none;
+  border-radius:0px;
+}
+ 
+
+ 
+  @media (max-width: 768px) {
+  .modal{	
+    height:100%;
+  }
+    #fsModal1 .modal-content .popup  h1
+         {
+	  font-size:26px;
+	  }
+	  #fsModal1 .modal-body
+	  { 
+	  padding:0px;margin:0px;
+	  }
+	  
+}
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+	
+	
+	
+	
+	
+	

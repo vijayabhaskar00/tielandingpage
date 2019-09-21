@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+canvas{display:block;z-index: 999999999999999}
+.bdaytext {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-family: "Source Sans Pro";
+  font-size: 5em;
+  font-weight: 900;
+  -webkit-user-select: none;
+  user-select: none;
+}
